@@ -1,6 +1,0 @@
-color = input("Please type your favorite color: ")
-color = color.upper()
-print("I think your favorite color is...", color, ", am I right?")
-answer = input("Yes or no? ")
-answer = answer.upper()
-print(answer, "?...see what did I tell you?")
